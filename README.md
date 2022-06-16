@@ -1,2 +1,2 @@
 # ProjectManagementApplication
-object oriented design for project management application
+this is low level design of project management application
