@@ -147,10 +147,6 @@ namespace ProjectManagementApplication
         }
     }
 
-
-
-
-
     #endregion
 
     #region Project
